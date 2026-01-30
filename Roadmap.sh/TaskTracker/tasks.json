@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "id": 1,
+        "description": "Python I don't klnow test",
+        "status": "todo",
+        "createdAt": "2026-01-30T22:06:13.547359",
+        "updatedAt": "2026-01-30T22:30:29.522649"
+    }
+]
