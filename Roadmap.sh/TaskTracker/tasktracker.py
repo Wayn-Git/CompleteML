@@ -101,6 +101,7 @@ def update_task():
     
 
 
+
 print("""============================
     Welcome to TaskTracker
       
@@ -114,6 +115,18 @@ print("""============================
 
 ==============================
       """)
-# add_task()
-view_task()
-update_task()
+
+user_input = int(input("Enter your choice: "))
+
+if user_input == 1:
+    view_task()
+elif user_input == 2:
+    add_task()
+elif user_input == 3:
+    update_task()
+elif user_input == 4 or 5 :
+    print("Not implimented yet")
+elif user_input == 6:
+    pass
+else:
+    print("Invalid Input")
