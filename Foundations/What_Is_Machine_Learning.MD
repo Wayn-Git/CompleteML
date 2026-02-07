@@ -33,6 +33,22 @@ Later on we divide machine learning into 3 parts:
  Teaching a computer to recognise things with independent and dependent features by using labelled data.
 
      a. Regression <br>
-     ddd
+     Regression = Numbers this is where the model predict a continious numerical value, We have a set of independant features (X) and a single dependent feature (Y) we use the independant features to predict the dependent feature <br>
+     Example: 
+
+     ![alt text](image-1.png)
+<br><br>
+     An outlier is considered a value that is unrealistic according to the data or in general, in this case we can see that the individual studies 5 hours a day and sleeps an sigle hour and scores some really good grades, that's either einstein or some really high IQ super human so we can consider that as an outlier as it's unrealistic and not really possible and will mess with the models ability to learn patterns
+    <br>  
      
      b. Classification<br>
+     Here the concept is same as regression we have independant features and dependant features but instead of predicting a single numerical continous value we tend to predict a set of values with or without label
+
+     Example:
+     Preducting weather we have a picture of a cat or a picture of a dog <br>
+     ![alt text](image-2.png)
+
+     (We can predict more than 2 labels)
+
+2. Unsupervised Learning
+
