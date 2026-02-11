@@ -50,5 +50,7 @@ Later on we divide machine learning into 3 parts:
 
      (We can predict more than 2 labels)
 
-2. Unsupervised Learning
+2. Unsupervised Learning <br>
+ Prier in supervised learning we saw that 
+
 
