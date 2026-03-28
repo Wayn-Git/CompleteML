@@ -51,6 +51,6 @@ Later on we divide machine learning into 3 parts:
      (We can predict more than 2 labels)
 
 2. Unsupervised Learning <br>
- Prier in supervised learning we saw that 
+ Prier in supervised learning we saw that we were working with data that had labels assigned to them but here in this case we have no labels but we group the most relevanet features together
 
 
