@@ -152,7 +152,7 @@ Used specifically for categorical variables to understand class balance and cate
 
 ## 7. KDE Plot (Density Plot) — Smooth Distributions
 
-A Kernel Density Estimate (KDE) plot is essentially a smoother version of a histogram. 
+A Kernel Density Estimate (KDE) plot is essentially a smoother version of a histogra
 
 <br>
 <img src="image-9.png" alt="KDE Plot" width="600">
